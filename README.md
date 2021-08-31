@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajesticLog
 - 👀 I’m interested in computational arts and creative coding
-- 🌱 I’m currently learning Processing, three.js and openFrameworks
+- 🌱 I’m currently using Processing, three.js and openFrameworks
 - 💞️ I’m looking to collaborate on anything, really! The more you do, the more you learn eh?
 - 📫 How to reach me: on Instagram, @life.as.a.plant 🐛
 

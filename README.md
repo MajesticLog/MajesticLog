@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajesticLog
 - 👀 I’m interested in computational arts and creative coding
-- 🌱 I’m currently using Processing, openFrameworks, working with Arduinos and learning TouchDesigner!
+- 🌱 I’m currently using Processing, openFrameworks, working with Arduinos and Unity!
 - 💞️ I’m looking to collaborate on anything, really! The more you do, the more you learn eh?
 - 📫 How to reach me: on Instagram, @life.as.a.plant 🐛 for my recent shennanigans, and https://openprocessing.org/user/263684 🦗for my p5/Processing adventures!
 
